@@ -1,5 +1,3 @@
-This is a professionally structured `README.md` file tailored for a GitHub repository. It uses clear hierarchy, badges, and formatting to make your 6-week learning journey easy to navigate.
-
 ---
 
 # Advanced Deep Learning: Code-Along Series 🚀
