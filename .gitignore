@@ -1,0 +1,32 @@
+# Model checkpoints and results
+results/
+distilbert-imdb-sentiment/
+temp_data/
+*.safetensors
+*.pt
+*.bin
+*.ckpt
+
+# Hugging Face cache
+.cache/
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large data files
+*.txt
+!requirements.txt
+!README.txt
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
