@@ -6,7 +6,8 @@ temp_data/
 *.pt
 *.bin
 *.ckpt
-
+.gitattributes
+.DS_Store
 # Hugging Face cache
 .cache/
 __pycache__/
